@@ -9,7 +9,6 @@
 </head>
 <body>
   <header class="navbar">
-    <div class="logo">MyLogo</div>
     <nav class="nav-links">
       <a href="#home">Home</a>
       <a href="#about">About</a>
